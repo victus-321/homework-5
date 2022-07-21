@@ -1,0 +1,26 @@
+.header-div-ul {
+    padding-top: 20px;
+    display: flex;
+    font-size: 20px;
+    height: 45px;
+    background-color: rgb(111, 173, 255);
+
+    &__li {
+        font-size: 60px;
+        margin-top: -40px;
+        color: white;
+        padding-left: 30px;
+    }
+
+    &__li2 {
+        margin-left: 10px;
+        color: white;
+    }
+
+    &__li-photo {
+        color: white;
+        padding-left: 300px;
+
+    }
+
+}
